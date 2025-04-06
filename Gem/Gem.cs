@@ -15,4 +15,8 @@ public partial class Gem : Area2D
 	{
 		Position += new Vector2(0, _speed * (float)delta);
 	}
+
+	private void OnAreaEntered(Area2D area){
+		GD.Print("Scored!");
+	}
 }
