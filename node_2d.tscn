@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://c5vc2upfyheye" path="res://assets/GameBg.png" id="1_wtcfe"]
 [ext_resource type="PackedScene" uid="uid://citt2peane6sa" path="res://Paddle/paddle.tscn" id="2_0e48y"]
-[ext_resource type="PackedScene" uid="uid://ddb618df12cdo" path="res://Gem/node_2d.tscn" id="2_epypp"]
+[ext_resource type="PackedScene" uid="uid://ddb618df12cdo" path="res://Gem/Gem.tscn" id="2_epypp"]
 
 [node name="Node2D" type="Node2D"]
 
